@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net10.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ElectricityMonitorApi.Application\ElectricityMonitorApi.Application.csproj" />
+    <ProjectReference Include="..\ElectricityMonitorApi.Domain\ElectricityMonitorApi.Domain.csproj" />
+  </ItemGroup>
+
+</Project>
