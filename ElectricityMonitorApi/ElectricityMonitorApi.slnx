@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="../ElectricityMonitorApi.Application/ElectricityMonitorApi.Application.csproj" />
+    <Project Path="../ElectricityMonitorApi.Domain/ElectricityMonitorApi.Domain.csproj" />
+    <Project Path="../ElectricityMonitorApi.Infrasctructure/ElectricityMonitorApi.Infrastructure.csproj" />
+    <Project Path="ElectricityMonitorApi.csproj" />
+  </Folder>
+</Solution>
